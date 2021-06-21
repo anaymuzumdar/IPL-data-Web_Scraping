@@ -1,4 +1,4 @@
-# WebSraping_Project_on_IPL_Batsmen_Data
+# WebSraping_&_Exploratory_Data_Analysis_Project_on_IPL_Batsmen_Data_using_Python
 A webscraping project on IPL Batsmen Data from the official website of IPL.
 The Objective of the project was to find out the best performing batsmen and find out their records.
 Data taken of top 100 batsmen who have scored most runs throughout every season from 2008 till 2020.
